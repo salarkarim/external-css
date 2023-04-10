@@ -1,0 +1,44 @@
+.h2{
+    color:rosybrown;
+    text-align: center;
+    border-style: double;
+    border-color:red;
+    background-color: black;
+    font-size: 30px;
+}
+.p1{
+    color: blue;
+    border-style: dashed;
+    border-color: rgb(22, 6, 36);
+    font-size: 10px;
+}
+.h3{
+    color:rosybrown;
+    text-align: center;
+    border-style: double;
+    border-color:red;
+    background-color: black;
+    font-size: 30px;
+
+}
+.p2{
+    color: blue;
+    border-style: groove;
+    border-color: rgb(22, 6, 36);
+    font-size: 10px;
+}
+.h4{
+    font-size: 30px;
+    color:rosybrown;
+    text-align: center;
+    border-style: double;
+    border-color:red;
+    background-color: black;
+
+}
+.p3{
+    color: blue;
+    border-style: groove;
+    border-color: rgb(22, 6, 36);
+    font-size: 10px;
+}
